@@ -1,0 +1,13 @@
+
+public class tut6if {
+	public static void main(String[] args) {
+		
+		boolean cond = 1 < 6;
+		
+		System.out.println(cond);
+		
+		if(4 == 4) {
+			System.out.println("Yes, it's True!");
+		}
+	}
+}
